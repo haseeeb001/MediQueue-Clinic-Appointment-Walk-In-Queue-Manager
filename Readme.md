@@ -6,10 +6,10 @@ A console-based Java queue and token management system built for **MediCare Mult
 
 ## Team Details
 * **Project ID:** CP-021 (MediQueue — Foundation Level)
-* **Domain:** MediCare Multispeciality Clinic, Bengaluru
+* **Domain:** Bangalore Baptist Hospital, Bengaluru
 * **Team Members:**
-    1. Ahmed Abdul Haseeb — *[Enter USN]*
-    2. *[Partner Name]* — *[Enter USN]*
+    1. Ahmed Abdul Haseeb — *[1AT24CS010]*
+    2. Fardeen Iqbal Sayed — *[1AT24CS057]*
 
 ---
 
